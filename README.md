@@ -1,58 +1,56 @@
-<!-- README for Ega Destaviano -->
+<!-- Modern Animated GitHub README for Ega Destaviano -->
 
-<h1 align="center">👋 Hey, I'm Ega Destaviano</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ega+Destaviano;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Vue+%7C+Next.js&center=true&size=25">
+</h1>
+
 <p align="center">
-  <strong>Full Stack Developer</strong> • he/him<br>
-  <em>Building scalable & elegant web apps with Laravel, React, Vue & Next</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coder GIF" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/egadestaviano" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vinxx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:egadestaviano@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Ega Destaviano**, a passionate Full Stack Developer with **2+ years of experience** in crafting modern web applications.  
-I've worked on **100+ projects**, ranging from **SaaS platforms** and **eCommerce systems** to **enterprise-level API integrations**.
+Hi! I'm **Ega Destaviano** — a creative and dedicated **Full Stack Developer** with **3+ years of experience** building modern, scalable, and maintainable web applications.
 
-I thrive on writing clean, maintainable code and creating digital solutions that solve real business problems.
+🚀 I’ve successfully completed **100+ web projects**, including:
+- 🔧 SaaS platforms
+- 🛍️ eCommerce systems
+- 🌐 Complex API integrations
 
-### 💡 What I Do
-- 🛠️ Develop and scale full-stack web applications
-- 📦 Build complex backend systems with Laravel
-- 💻 Create intuitive frontends with React, Vue, and Next.js
-- 🔌 Integrate REST APIs and third-party services
-- 🧪 Focus on performance, security, and usability
+💡 I’m passionate about clean code, performance optimization, and building solutions that align with real business needs.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠️ Tech Stack & Tools
 
-| Backend         | Frontend         | Database         | Tools & Others            |
-|----------------|------------------|------------------|---------------------------|
-| PHP, Laravel   | React.js, Vue.js | MySQL, PostgreSQL| Git, Docker, Figma, REST  |
-| Laravel Nova   | Next.js          | Redis (optional) | Postman, Vite, Tailwind   |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,nextjs,tailwind,html,css,mysql,postgresql,docker,git,postman" />
+</div>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egadestaviano&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egadestaviano&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egadestaviano&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=egadestaviano&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egadestaviano&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-> *“Great code is not just functional — it’s thoughtful, elegant, and aligned with purpose.”*  
+> 🧠 *“I don't just build websites — I build solutions that matter.”*  
 > — Ega Destaviano
